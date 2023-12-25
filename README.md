@@ -73,5 +73,4 @@ Feel free to reach out if you have any questions or encounter issues.
 
 ---
 
-**Author:** Your Name
-**License:** MIT License
+**Author:** DJARALLAH brahim
