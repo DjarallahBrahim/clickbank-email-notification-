@@ -17,6 +17,7 @@ Before using this script, ensure you have the following:
    you can generate random secret key, **please must read this** : https://support.clickbank.com/hc/en-us/articles/220376507-Instant-Notification-Service-INS?_ga=2.145806644.1451328938.1703542760-2051887488.1703542760&_gl=1*1tm31og*_ga*MjA1MTg4NzQ4OC4xNzAzNTQyNzYw*_ga_Q17BLCFMQX*MTcwMzU0Mjc2MC4xLjEuMTcwMzU0Mzk3MS4wLjAuMA..#Secret%20Key
 
 2. **Email Configuration:**
+   You should have a hosting support php > 6.0 (google it)
    Update the `FROM_EMAIL_ADDRESS` and `TO_EMAIL_ADDRESS` constants with the appropriate email addresses. The `FROM_EMAIL_ADDRESS` represents the sender's email address, while `TO_EMAIL_ADDRESS` is the recipient's email address.
 
    ```php
